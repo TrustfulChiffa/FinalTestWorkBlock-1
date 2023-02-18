@@ -1,2 +1,1 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿string[] arrayAnySize = new string[6] {"q", "qw", "qwe", "qwerty", "geek", "xyz"};
