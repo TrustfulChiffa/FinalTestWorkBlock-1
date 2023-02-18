@@ -22,3 +22,6 @@ void PrintArray(string[] array)
     }
     Console.WriteLine();
 }
+
+SelectLinesLess4(arrayAnySize, arraySizeOf3);
+PrintArray(arraySizeOf3);
